@@ -35,7 +35,9 @@ Then open `index.html` in your browser.
 
 ![Weather App](./screenshots/weather.png)
 
+## 🌐 Live Demo
 
+https://weather-app-flame-psi-60.vercel.app/
 
 ## 🎯 Learning Outcomes
 
